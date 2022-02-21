@@ -1,0 +1,22 @@
+{
+  "name": "se-demo-repo",
+  "version": "1.0.0",
+  "description": "SE team demo repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-github-account/se-demo-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-github-account/se-demo-repo/issues"
+  },
+  "homepage": "https://github.com/cs-github-account/se-demo-repo#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.0"
+  }
+}
